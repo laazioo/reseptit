@@ -2,21 +2,21 @@
 
 Tulee annos isoon vuokaan
 
-Bolognese kastike:
--jauheliha 700g
--valkosipuli
--sipuli
--bolognese maustepussi 
--tomaattipyre purkki
--suola
+### Bolognese kastike:
+- jauheliha 700g
+- valkosipuli
+- sipuli
+- bolognese maustepussi 
+- tomaattipyre purkki
+- suola
 
 
- Valkokastike:
--maitoa 1l
--voita 60g
--vehnäjauhoja 3rkl
--valkopippuri
--suola
+### Valkokastike:
+- maitoa 1l
+- voita 60g
+- vehnäjauhoja 3rkl
+- valkopippuri
+- suola
 - juustoraastetta 200g
 
 Lasagne levyjä 
