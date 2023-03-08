@@ -1,2 +1,3 @@
-# reseptit
-Aproved by Lasse ruokareseptit
+# Ruokareseptit
+
+Hyväksi todetut ruokareseptit
