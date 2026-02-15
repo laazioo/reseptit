@@ -1,12 +1,13 @@
-#Jauheliha pannari
+Jauheliha pannari
 - 800g jauhelihaa
 - Iso sipuli (tai kaks pienempää)
 - Valkosipulia
-##Mausteet:
+
+Mausteet:
 - grillimauste
 - suolaa
 - pippuri
--
+
 
 Pannari taikina
 - 1l kulutus maitoa
@@ -22,7 +23,7 @@ Viimeisenä voi. Voi ei saa olla kuumaa!
 
 Pistä uuni lämpiämään ja jätä syvä pelti sisälle.
 
-##Taikinan turvotessa:
+Taikinan turvotessa:
 - Pilko sipuli ja valkosipuli.
 - Paista liha ja lisää sipulit.
 - Mausta lihaa vähän yli kun pannukakkutaikina vie makua.
